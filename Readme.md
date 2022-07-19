@@ -1,0 +1,1 @@
+npx sass --watch src/sass:public/css
